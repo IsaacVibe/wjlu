@@ -52,7 +52,7 @@ What I am interested in
 ------
 <span style="font-family: Economica; font-size:1em;color:#92A8D1">Pulsar Astronomy, Radio Transients, Interstellar Medium, Astronomical Data Analysis</span>
 
-{% include deepseek-chat.html %}
+<!-- {% include deepseek-chat.html %} -->
 
 
 Getting started
