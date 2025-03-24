@@ -18,7 +18,7 @@ Education Experience
 
 <div style="text-align: center;"><strong>Group photo with my undergraduate roommates! Also lifelong friends </strong></div>
 ![Group photo with my undergraduate roommates!](BSc_ceremony.jpg)
-<img src="/images/FAST.jpg" alt="FAST icon" style="width: auto; height: auto; vertical-align: middle;">
+
 
 Research Experience
 ======
