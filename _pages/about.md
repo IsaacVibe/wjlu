@@ -16,9 +16,18 @@ Education Experience
 - **PhD in Astronomy**, National Astronomical Observatories of Chinese Academy of Sciences, Beijing, China, 2023 - Present
 - **BSc in Astronomy**, Department of Astronomy and Space Science, Nanjing, China, 2019 - 2023
 
+<div style="text-align: center;"><strong>Group photo with my undergraduate roommates! Also lifelong friends </strong></div>
+![Group photo with my undergraduate roommates!](/images/BSc_ceremony.jpg)
+
 Research Experience
 ------
-- Meteor and Transient monitoring observations
+- <span style="font-family: Economica; font-size:2em;color:#92A8D1">Meteor and Transient monitoring observations</span>
+
+  National Undergraduate Innovation and Entrepreneurship Training Program
+- Observations on several magnetars and a central compact object using the Five-hundred-meter Aperture Spherical Telescope 
+([**FAST**](https://fast.bao.ac.cn/) <img src="/images/FAST.jpg" alt="FAST icon" style="width: auto; height: 1em; vertical-align: middle;">)
+
+  - <span style="font-family: Economica; font-size:2em;color:#92A8D1">Early-bird scientific research training program in NJU-Astro</span>
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -50,8 +59,13 @@ How to edit your site's GitHub repository
 ------
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
+<<<<<<< HEAD
 Example: editing a markdown file for a talk test
 ![Editing a markdown file for a talk](/images/editing-talk.png)
+=======
+Example: editing a markdown file for a talk
+
+>>>>>>> 496933f (Adjust the font settings)
 
 For more info
 ------
