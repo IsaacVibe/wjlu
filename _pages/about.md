@@ -25,8 +25,14 @@ Research Experience
 - <span style="font-family: Economica; font-size:2em;color:#60047a">Observations on several **magnetars** and a **central compact object** at their quiescence using the Five-hundred-meter Aperture Spherical Telescope </span> 
 - <span style="font-family: Economica; font-size:2em;color:#EDAB1F">Temporal Evolution of Depolarization and Magnetic Field of Fast Radio Burst 20201124A</span>
 
+Observation Experience
+------
+- <span style="font-family: Economica; font-size:2em;color:#92A8D1">Five-hundred-meter Aperture Spherical Telescope</span> 
+<img src="FAST.jpg"; alt="FAST icon"; style="width: auto; height: 1em; vertical-align: middle;">
 
-<!-- {% include deepseek-chat.html %} -->
+What I am interested in
+------
+  - <span style="font-family: Economica; font-size:1em;color:#92A8D1">Pulsar Astronomy, Radio Transients, Interstellar Medium, Astronomical Data Analysis</span>
 
 Getting started
 ======
