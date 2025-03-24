@@ -55,7 +55,7 @@
       
       if (!input.value.trim()) return;
   
-      // 添加用户消息
+      // Add user message
       history.innerHTML += `<div class="user-msg">${input.value}</div>`;
       
       try {
@@ -72,13 +72,6 @@
             temperature: 0.7,
             max_tokens: 2000,
             top_p: 1,
-            // messages: [{
-            //   role: 'system', 
-            //   content: '你是一位天文专家，用中文回答时要专业且通俗易懂，使用学术论文的严谨表述方式。'
-            // },{
-            //   role: 'user',
-            //   content: input.value
-            // }],
             stream: false
           })
         });
@@ -86,20 +79,20 @@
         const data = await response.json();
         console.log('API Response:', data);
         if (!data?.choices?.[0]?.message?.content) {
-          throw new Error(`无效的API响应结构: ${JSON.stringify(data)}`);
+          throw new Error(`Invalid API response structure: ${JSON.stringify(data)}`);
         }
         const reply = data.choices[0].message.content;
         
-        // 添加机器人回复
+        // Add bot reply
         history.innerHTML += `<div class="bot-msg">${reply}</div>`;
       } catch (error) {
-        console.error('请求失败:', error);
-        history.innerHTML += `<div class="bot-msg" style="background:#ff4444;">请求失败: ${error instanceof TypeError ? '网络错误' : error.message}</div>`;
+        console.error('Request failed:', error);
+        history.innerHTML += `<div class="bot-msg" style="background:#ff4444;">Request failed: ${error instanceof TypeError ? 'Network error' : error.message}</div>`;
       }
       
       input.value = '';
       history.scrollTop = history.scrollHeight;
-    });
+    }); // Ensure the callback for addEventListener is properly closed
     
     
   });
