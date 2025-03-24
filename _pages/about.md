@@ -20,7 +20,8 @@ Education Experience
 ![Group photo with my undergraduate roommates!](BSc_ceremony.jpg)
 
 Research Experience
-======
+------
+1. <span style="font-family: Economica; font-size:2em;color:#92A8D1">Probing the Local Environments of Fast Radio Bursts</span>
 1. <span style="font-family: Economica; font-size:2em;color:#92A8D1">Observations on several **magnetars** and a **central compact object** at their quiscence using the Five-hundred-meter Aperture Spherical Telescope </span> 
 ([**FAST**](https://fast.bao.ac.cn/) <img src="FAST.jpg" alt="FAST icon" style="width: auto; height: 1em; vertical-align: middle;">)
 
