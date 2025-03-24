@@ -22,13 +22,13 @@ Education Experience
 Research Experience
 ------
 - <span style="font-family: Economica; font-size:2em;color:#92A8D1">Probing the Local Environments of Fast Radio Bursts</span>
-
 - <span style="font-family: Economica; font-size:2em;color:#92A8D1">Observations on several **magnetars** and a **central compact object** at their quiscence using the Five-hundred-meter Aperture Spherical Telescope </span> 
 ([**FAST**](https://fast.bao.ac.cn/) <img src="FAST.jpg" alt="FAST icon" style="width: auto; height: 1em; vertical-align: middle;">)
-
    Early-bird scientific research training program in NJU-Astro
-
-
+- <span style="font-family: Economica; font-size:2em;color:#92A8D1">Temporal Evolution of Depolarization and Magnetic Field of Fast Radio Burst 20201124A</span>
+  Abstract here <span style="font-family: Economica; font-size:1em;color:#92A8D1">[Lu et al. 2023](https://doi.org/10.3847/2041-8213/acf8cb)</span>
+- <span style="font-family: Economica; font-size:2em;color:#92A8D1">Meteor and Transient monitoring observations</span>
+  National Undergraduate Innovation and Entrepreneurship Training Program
 
 What I can do
 ------
