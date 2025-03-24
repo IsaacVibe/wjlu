@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website! Here is a PhD student loving to astronomical data & time-domian astronomy"
+title: "Wanjin Lu"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,7 +17,7 @@ Education Experience
 - **BSc in Astronomy**, Department of Astronomy and Space Science, Nanjing, China, 2019 - 2023
 
 <div style="text-align: center;"><strong>Group photo with my undergraduate roommates! Also lifelong friends </strong></div>
-![Group photo with my undergraduate roommates!](BSc_ceremony.jpg)
+<!-- ![Group photo with my undergraduate roommates!](BSc_ceremony.jpg) -->
 
 Research Experience
 ------
