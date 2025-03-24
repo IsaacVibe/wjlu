@@ -25,7 +25,7 @@ Research Experience
 
   National Undergraduate Innovation and Entrepreneurship Training Program
 - Observations on several magnetars and a central compact object using the Five-hundred-meter Aperture Spherical Telescope 
-([**FAST**](https://fast.bao.ac.cn/) <img src="/images/FAST.jpg" alt="FAST icon" style="width: auto; height: 1em; vertical-align: middle;">)
+([**FAST**](https://fast.bao.ac.cn/) <img src="FAST.jpg" alt="FAST icon" style="width: auto; height: 1em; vertical-align: middle;">)
 
    <span style="font-family: Economica; font-size:2em;color:#92A8D1">Early-bird scientific research training program in NJU-Astro</span>
 ======
