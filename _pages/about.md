@@ -19,6 +19,13 @@ Education Experience
 <div style="text-align: center;"><strong>Group photo with my undergraduate roommates! Also lifelong friends </strong></div>
 ![Group photo with my undergraduate roommates!](BSc_ceremony.jpg)
 
+Research Experience
+------
+- <span style="font-family: Economica; font-size:2em;color:#EC1B26">Probing the Local Environments of Fast Radio Bursts</span><br>
+  <div style="text-align: center;"><em>"A continuous work after the depolarization study"</em> </div><br>
+  **Abstract**: Conjugate investigation on several repeating FRBs about their depolarization, temporal evolution, and Rotation Measure evolution.<br>
+  **Conclusion**: _Parsec-scale_ distance between the foreground plasma screen and the FRB source has been revealed, implying that some of the FRBs are consistent with the supernovae explosion scenario while others favor compact interactions in the binary systems.
+
 
 Observation Experience
 ------
