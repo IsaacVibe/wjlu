@@ -16,9 +16,6 @@ Education Experience
 - **PhD in Astronomy**, National Astronomical Observatories of Chinese Academy of Sciences, Beijing, China, 2023 - Present
 - **BSc in Astronomy**, Department of Astronomy and Space Science, Nanjing, China, 2019 - 2023
 
-<div style="text-align: center;"><strong>Group photo with my undergraduate roommates! Also lifelong friends </strong></div>
-![Group photo with my undergraduate roommates!](BSc_ceremony.jpg)
-
 Research Experience
 ------
 - <span style="font-family: Economica; font-size:2em;color:#EC1B26">Probing the Local Environments of Fast Radio Bursts</span>
