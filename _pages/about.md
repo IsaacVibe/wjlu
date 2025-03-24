@@ -36,21 +36,15 @@ Research Experience
   
 Observation Experience
 ------
-- <span style="font-family: Economica; font-size:2em;color:#92A8D1">Five-hundred-meter Aperture Spherical Telescope</span> <img src="FAST.jpg" alt="FAST icon" style="width: auto; height: 1em; vertical-align: middle;">
+- <span style="font-family: Economica; font-size:2em;color:#92A8D1">Five-hundred-meter Aperture Spherical Telescope</span> 
+<img src="FAST.jpg" alt="FAST icon" style="width: auto; height: 1em; vertical-align: middle;">
 
 What I can do
 ------
 - <span style="font-family: Economica; font-size:2em;color:#92A8D1">Data Analysis</span>
 - <span style="font-family: Economica; font-size:2em;color:#92A8D1">Data Visualization</span>
 
-What I want to do
-------
-- <span style="font-family: Economica; font-size:2em;color:#92A8D1">AI-boosted Astronomical Data Analysis</span>
-- <span style="font-family: Economica; font-size:2em;color:#92A8D1">Machine Learning</span>
 
-What I am interested in
-------
-<span style="font-family: Economica; font-size:1em;color:#92A8D1">Pulsar Astronomy, Radio Transients, Interstellar Medium, Astronomical Data Analysis</span>
 
 <!-- {% include deepseek-chat.html %} -->
 
