@@ -19,7 +19,6 @@ Education Experience
 <div style="text-align: center;"><strong>Group photo with my undergraduate roommates! Also lifelong friends </strong></div>
 ![Group photo with my undergraduate roommates!](BSc_ceremony.jpg)
 
-
 Research Experience
 ======
 1. <span style="font-family: Economica; font-size:2em;color:#92A8D1">Observations on several **magnetars** and a **central compact object** at their quiscence using the Five-hundred-meter Aperture Spherical Telescope </span> 
