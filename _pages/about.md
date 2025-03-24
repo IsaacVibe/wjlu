@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+{%include deepseek-chat.html%}
+
 I am a PhD student in the Interstellar Medium and Star formation Group of National Astronomical Observatories of Chinese Academy of Sciences, China. 
 My research interests include Time-domain Astronomy, Fast Radio Bursts, and pulsars. 
 I am also interested in the use of machine learning and data science to improve our understanding of the universe.
@@ -30,7 +32,7 @@ Research Experience
   **Abstract**: FRB 20201124A was observed to show significant RM variation in several weeks. We figured out the temporal variation of depolarization of FRB 20201124A from FAST observations in 2021. <br>
   **Conclusion**: The quasi-simultaneous variation of depolarization, RM variation, and the line-of-sight magnetic field of FRB 20201124A is consistent with the binary system scenario, which involves active stellar interactions.   
   (<span style="font-family: Economica; font-size:1em;color:#92A8D1">[Lu et al. 2023](https://doi.org/10.3847/2041-8213/acf8cb)</span>)
-- <span style="font-family: Economica; font-size:2em;color:#60047a">Observations on several **magnetars** and a **central compact object** at their quiescence using the Five-hundred-meter Aperture Spherical Telescope </span><br> (<img src="FAST.jpg" alt="FAST icon" style="width: auto; height: 1em; vertical-align: middle;">)
+- <span style="font-family: Economica; font-size:2em;color:#60047a">Observations on several **magnetars** and a **central compact object** at their quiescence using the Five-hundred-meter Aperture Spherical Telescope </span><br> ([FAST](https://fast.bao.ac.cn/)<img src="FAST.jpg" alt="FAST icon" style="width: auto; height: 1em; vertical-align: middle;">)
   <div style="text-align: center;"><em>"Early-bird Scientific Research Training Program"</em> in NJU-Astro</div>
 
 Observation Experience
