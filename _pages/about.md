@@ -21,14 +21,22 @@ Education Experience
 
 Research Experience
 ------
-- <span style="font-family: Economica; font-size:2em;color:#92A8D1">Probing the Local Environments of Fast Radio Bursts</span>
-- <span style="font-family: Economica; font-size:2em;color:#92A8D1">Observations on several **magnetars** and a **central compact object** at their quiscence using the Five-hundred-meter Aperture Spherical Telescope </span> 
-([**FAST**](https://fast.bao.ac.cn/) <img src="FAST.jpg" alt="FAST icon" style="width: auto; height: 1em; vertical-align: middle;">)
-   Early-bird scientific research training program in NJU-Astro
-- <span style="font-family: Economica; font-size:2em;color:#92A8D1">Temporal Evolution of Depolarization and Magnetic Field of Fast Radio Burst 20201124A</span>
+- <span style="font-family: Economica; font-size:2em;color:#EC1B26">Probing the Local Environments of Fast Radio Bursts</span><br><br>
+  <div style="text-align: center;"><em>A continuous study after the depolarization study</em> </div><br>
+  **Abstract**: Conjugate investigation on several repeating FRBs about their depolarization, temporal evolution, and Rotation Measure evolution.<br>
+  **Conclusion**: _Parsec-scale_ distance between the foreground plasma screen and the FRB source has been revealed, implying that some of the FRBs are consistent with the supernovae explosion scenario while others favor compact interactions in the binay systems.
+- <span style="font-family: Economica; font-size:2em;color:#EDAB1F">Temporal Evolution of Depolarization and Magnetic Field of Fast Radio Burst 20201124A</span><br><br>
   Abstract here <span style="font-family: Economica; font-size:1em;color:#92A8D1">[Lu et al. 2023](https://doi.org/10.3847/2041-8213/acf8cb)</span>
-- <span style="font-family: Economica; font-size:2em;color:#92A8D1">Meteor and Transient monitoring observations</span>
-  National Undergraduate Innovation and Entrepreneurship Training Program
+- <span style="font-family: Economica; font-size:2em;color:#60047a">Observations on several **magnetars** and a **central compact object** at their quiscence using the Five-hundred-meter Aperture Spherical Telescope </span> 
+([**FAST**](https://fast.bao.ac.cn/) <img src="FAST.jpg" alt="FAST icon" style="width: auto; height: 1em; vertical-align: middle;">)<br><br>
+   <div style="text-align: center;"><em>Early-bird Scientific Research Training Program</em> in NJU-Astro</div>
+- <span style="font-family: Economica; font-size:2em;color:#92A8D1">Meteor and Transient monitoring observations</span><br><br>
+  <div style="text-align: center;"><em>National Undergraduate Innovation and Entrepreneurship Training Program</em> </div>
+
+Observation Experience
+------
+- <span style="font-family: Economica; font-size:2em;color:#92A8D1">Five-hundred-meter Aperture Spherical Telescope</span> <img src="FAST.jpg" alt="FAST icon" style="width: auto; height: 1em; vertical-align: middle;">
+- <span style="font-family: Economica; font-size:2em;color:#92A8D1">National Astronomical Observatories of Chinese Academy of Sciences</span> <img src="NANOGrav.jpg" alt="NANOGrav icon" style="width: auto; height: 1em; vertical-align: middle;">
 
 What I can do
 ------
@@ -37,8 +45,12 @@ What I can do
 
 What I want to do
 ------
-- <span style="font-family: Economica; font-size:2em;color:#92A8D1">Data Science</span>
+- <span style="font-family: Economica; font-size:2em;color:#92A8D1">AI-boosted Astronomical Data Analysis</span>
 - <span style="font-family: Economica; font-size:2em;color:#92A8D1">Machine Learning</span>
+
+What I am interested in
+------
+<span style="font-family: Economica; font-size:1em;color:#92A8D1">Pulsar Astronomy, Radio Transients, Interstellar Medium, Astronomical Data Analysis</span>
 
 
 Getting started
