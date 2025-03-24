@@ -33,7 +33,7 @@ Research Experience
    <div style="text-align: center;"><em>"Early-bird Scientific Research Training Program"</em> in NJU-Astro</div>
 - <span style="font-family: Economica; font-size:2em;color:#92A8D1">Meteor and Transient monitoring observations</span><br>
   <div style="text-align: center;"><em>"National Undergraduate Innovation and Entrepreneurship Training Program"</em> </div>
-
+  
 Observation Experience
 ------
 - <span style="font-family: Economica; font-size:2em;color:#92A8D1">Five-hundred-meter Aperture Spherical Telescope</span> <img src="FAST.jpg" alt="FAST icon" style="width: auto; height: 1em; vertical-align: middle;">
@@ -53,6 +53,7 @@ What I am interested in
 <span style="font-family: Economica; font-size:1em;color:#92A8D1">Pulsar Astronomy, Radio Transients, Interstellar Medium, Astronomical Data Analysis</span>
 
 {% include deepseek-chat.html %}
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
