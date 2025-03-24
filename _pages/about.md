@@ -42,5 +42,5 @@ What I am interested in
 
 
 
-{% include deepseek-chat.html %}
+{% include _includes/deepseek-chat.html %}
 
