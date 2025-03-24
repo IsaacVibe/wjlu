@@ -16,22 +16,37 @@ Education Experience
 - **PhD in Astronomy**, National Astronomical Observatories of Chinese Academy of Sciences, Beijing, China, 2023 - Present
 - **BSc in Astronomy**, Department of Astronomy and Space Science, Nanjing, China, 2019 - 2023
 
-<!-- <div style="text-align: center;"><strong>Group photo with my undergraduate roommates! Also lifelong friends </strong></div> -->
+<div style="text-align: center;"><strong>Group photo with my undergraduate roommates! Also lifelong friends </strong></div>
 ![Group photo with my undergraduate roommates!](BSc_ceremony.jpg)
 
 Research Experience
 ------
-<!-- - <span style="font-family: Economica; font-size:2em;color:#92A8D1">Meteor and Transient monitoring observations</span>
-
-  National Undergraduate Innovation and Entrepreneurship Training Program
-- Observations on several magnetars and a central compact object using the Five-hundred-meter Aperture Spherical Telescope 
+------
+1. <span style="font-family: Economica; font-size:2em;color:#92A8D1">Observations on several **magnetars** and a **central compact object** at their quiscence using the Five-hundred-meter Aperture Spherical Telescope </span> 
 ([**FAST**](https://fast.bao.ac.cn/) <img src="FAST.jpg" alt="FAST icon" style="width: auto; height: 1em; vertical-align: middle;">)
 
-   <span style="font-family: Economica; font-size:2em;color:#92A8D1">Early-bird scientific research training program in NJU-Astro</span> -->
-<!-- ====== -->
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+   Early-bird scientific research training program in NJU-Astro
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+2. <span style="font-family: Economica; font-size:2em;color:#92A8D1">Temporal Evolution of Depolarization and Magnetic Field of Fast Radio Burst 20201124A</span>
+
+  <span style="font-family: Economica; font-size:1em;color:#92A8D1">[Lu et al. 2023](https://doi.org/10.3847/2041-8213/acf8cb)</span>
+
+
+- <span style="font-family: Economica; font-size:2em;color:#92A8D1">Meteor and Transient monitoring observations</span>
+
+  National Undergraduate Innovation and Entrepreneurship Training Program
+
+
+What I can do
+------
+- <span style="font-family: Economica; font-size:2em;color:#92A8D1">Data Analysis</span>
+- <span style="font-family: Economica; font-size:2em;color:#92A8D1">Data Visualization</span>
+
+What I want to do
+------
+- <span style="font-family: Economica; font-size:2em;color:#92A8D1">Data Science</span>
+- <span style="font-family: Economica; font-size:2em;color:#92A8D1">Machine Learning</span>
+
 
 Getting started
 ======
