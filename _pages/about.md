@@ -31,7 +31,6 @@ Research Experience
 
   <span style="font-family: Economica; font-size:1em;color:#92A8D1">[Lu et al. 2023](https://doi.org/10.3847/2041-8213/acf8cb)</span>
 
-
 1. <span style="font-family: Economica; font-size:2em;color:#92A8D1">Meteor and Transient monitoring observations</span>
 
   National Undergraduate Innovation and Entrepreneurship Training Program
