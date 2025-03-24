@@ -20,8 +20,6 @@ repository               : "IsaacVibe/wjlu.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-secret:
-  deepseek_api_key: "sk-4a228b7604c948cab10d5c1840fca852"
 author:
   # Biographic information
   avatar           : "avatar.jpg"
