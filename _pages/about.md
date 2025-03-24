@@ -27,12 +27,9 @@ Research Experience
   **Conclusion**: _Parsec-scale_ distance between the foreground plasma screen and the FRB source has been revealed, implying that some of the FRBs are consistent with the supernovae explosion scenario while others favor compact interactions in the binay systems.
 - <span style="font-family: Economica; font-size:2em;color:#EDAB1F">Temporal Evolution of Depolarization and Magnetic Field of Fast Radio Burst 20201124A</span><br>
   <div style="text-align: center;"><em>"Bachelor Thesis"</em> </div>
-  Abstract here <span style="font-family: Economica; font-size:1em;color:#92A8D1">[Lu et al. 2023](https://doi.org/10.3847/2041-8213/acf8cb)</span>
-- <span style="font-family: Economica; font-size:2em;color:#60047a">Observations on several **magnetars** and a **central compact object** at their quiscence using the Five-hundred-meter Aperture Spherical Telescope </span> 
-([**FAST**](https://fast.bao.ac.cn/) <img src="FAST.jpg" alt="FAST icon" style="width: auto; height: 1em; vertical-align: middle;">)<br>
-   <div style="text-align: center;"><em>"Early-bird Scientific Research Training Program"</em> in NJU-Astro</div><br>
-    **Abstract**: FRB 20201124A was observed to show significant RM variation in several weeks. We figured out the temporal variation of depolarization of FRB 20201124A from FAST observations in 2021. <br>
-    **Conclusion**: The quasi-simultaneous variation of depolarization, RM variation, and the line-of-sight magnetic field of FRB 20201124A is consistent with the binary system scenario, which involves active stellar interactions.  
+  **Abstract**: FRB 20201124A was observed to show significant RM variation in several weeks. We figured out the temporal variation of depolarization of FRB 20201124A from FAST observations in 2021. <br>
+  **Conclusion**: The quasi-simultaneous variation of depolarization, RM variation, and the line-of-sight magnetic field of FRB 20201124A is consistent with the binary system scenario, which involves active stellar interactions.   <span style="font-family: Economica; font-size:1em;color:#92A8D1">[Lu et al. 2023](https://doi.org/10.3847/2041-8213/acf8cb)</span>
+
 
 Observation Experience
 ------
