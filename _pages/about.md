@@ -28,7 +28,7 @@ Research Experience
 Observation Experience
 ------
 - <span style="font-family: Economica; font-size:2em;color:#92A8D1">Five-hundred-meter Aperture Spherical Telescope</span> 
-<img src="FAST.jpg"; alt="FAST icon"; style="width: auto; height: 1em; vertical-align: middle;">
+<img src="FAST.jpg" alt="FAST icon" style="width: auto; height: 1em; vertical-align: middle;">
 
 What I am interested in
 ------
