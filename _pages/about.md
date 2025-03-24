@@ -29,6 +29,7 @@ Research Experience
   **Abstract**: FRB 20201124A was observed to show significant RM variation in several weeks. We figured out the temporal variation of depolarization of FRB 20201124A from FAST observations in 2021. <br>
   **Conclusion**: The quasi-simultaneous variation of depolarization, RM variation, and the line-of-sight magnetic field of FRB 20201124A is consistent with the binary system scenario, which involves active stellar interactions.   
   (<span style="font-family: Economica; font-size:1em;color:#92A8D1">[Lu et al. 2023](https://doi.org/10.3847/2041-8213/acf8cb)</span>)
+
 Observation Experience
 ------
 - <span style="font-family: Economica; font-size:2em;color:#92A8D1">Five-hundred-meter Aperture Spherical Telescope</span> 
