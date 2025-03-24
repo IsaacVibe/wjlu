@@ -32,10 +32,7 @@ Research Experience
 ([**FAST**](https://fast.bao.ac.cn/) <img src="FAST.jpg" alt="FAST icon" style="width: auto; height: 1em; vertical-align: middle;">)<br>
    <div style="text-align: center;"><em>"Early-bird Scientific Research Training Program"</em> in NJU-Astro</div><br>
     **Abstract**: FRB 20201124A was observed to show significant RM variation in several weeks. We figured out the temporal variation of depolarization of FRB 20201124A from FAST observations in 2021. <br>
-    **Conclusion**: The quasi-simultaneous variation of depolarization, RM variation, and the line-of-sight magnetic field of FRB 20201124A is consistent with the binary system scenario, which involves active stellar interactions.
-<!-- - <span style="font-family: Economica; font-size:2em;color:#92A8D1">Meteor and Transient monitoring observations</span><br>
-   <div style="text-align: center;"><em>"National Undergraduate Innovation and Entrepreneurship Training Program"</em> </div>
-   **Abstract**: I was involved in the meteor and transient monitoring observations of the Southern Hemisphere.<br> -->
+    **Conclusion**: The quasi-simultaneous variation of depolarization, RM variation, and the line-of-sight magnetic field of FRB 20201124A is consistent with the binary system scenario, which involves active stellar interactions.  
 
 Observation Experience
 ------
