@@ -1,5 +1,5 @@
 ---
-title: '<span style="font-family: Canela; font-size:2em;color:#EC1B26">Temporal evolution of depolarization and magnetic field of FRB 20201124A</span>'
+title: '<span style="font-family: Canela; font-size:2em;color:#EDAB1F">Temporal evolution of depolarization and magnetic field of FRB 20201124A</span>'
 collection: talks
 type: "Symposium Talk"
 permalink: /talks/FRB2024-ccnu

@@ -1,5 +1,5 @@
 ---
-title: '<span style="font-family: Canela; font-size:2em;color:#EC1B26">A peculiar Galactic Narrow-banded Radio Transient</span>'
+title: '<span style="font-family: Canela; font-size:2em;color:#EDAB1F">A peculiar Galactic Narrow-banded Radio Transient</span>'
 collection: talks
 type: "Symposium Talk"
 permalink: /talks/ism2024-guizhou

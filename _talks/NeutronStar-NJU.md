@@ -1,5 +1,5 @@
 ---
-title: '<span style="font-family: Canela; font-size:2em;color:#EC1B26">Upper limits on the radio pulses from magnetars and a Central Compact Object with FAST</span>'
+title: '<span style="font-family: Canela; font-size:2em;color:#EDAB1F">Upper limits on the radio pulses from magnetars and a Central Compact Object with FAST</span>'
 collection: talks
 type: "Symposium Talk"
 permalink: /talks/NeutronStar-NJU
