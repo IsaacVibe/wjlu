@@ -32,7 +32,7 @@ author:
   email            : "wjlu@nao.cas.cn" 
 
   # Academic websites
-  arxiv            : "https://ui.adsabs.harvard.edu/public-libraries/pdd7i-0aQNe6KhhaB8_-WQ" # URL - Update with the correct link to your profile
+  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-5653-3787"
