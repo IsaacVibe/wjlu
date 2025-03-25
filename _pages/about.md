@@ -18,7 +18,7 @@ Education Experience
 - **BSc in Astronomy**, Department of Astronomy and Space Science, Nanjing, China, 2019 - 2023
 
 <div style="text-align: center;"><strong>Group photo with my undergraduate roommates! Also lifelong friends </strong></div>
-![Group photo with my undergraduate roommates!](/BSc_ceremony.jpg)
+![Group photo with my undergraduate roommates!](BSc_ceremony.jpg)
 
 Research Experience
 ------
@@ -31,19 +31,19 @@ Research Experience
   <div style="text-align: center;"><em>"Bachelor Thesis"</em> </div><br>
   - Supervisor: **Prof. Fa-yin Wang**
   - Published as <span style="font-family: Economica; font-size:1em;color:#92A8D1">[Lu et al. 2023](https://doi.org/10.3847/2041-8213/acf8cb)</span>
-- <span style="font-family: Economica; font-size:2em;color:#60047a">Observations on several **magnetars** and a **central compact object** (CCO) at their quiescence using the Five-hundred-meter Aperture Spherical Telescope </span> ([FAST](https://fast.bao.ac.cn/)<img src="/FAST.jpg" alt="FAST icon" style="width: auto; height: 1em; vertical-align: middle;">)
+- <span style="font-family: Economica; font-size:2em;color:#60047a">Observations on several **magnetars** and a **central compact object** (CCO) at their quiescence using the Five-hundred-meter Aperture Spherical Telescope </span> ([FAST](https://fast.bao.ac.cn/)<img src="FAST.jpg" alt="FAST icon" style="width: auto; height: 1em; vertical-align: middle;">)
   <div style="text-align: center;"><em>"Early-bird Scientific Research Training Program"</em> in NJU-Astro</div>
   - Collaborators: **Prof. Ping Zhou**, **Prof. Pei Wang**<br>
   - Published as <span style="font-family: Economica; font-size:1em;color:#92A8D1">[Lu et al. 2024](https://doi.org/10.3847/1538-4357/ad27cf)</span>.
 
 Observation Experience
 ------
-- <span style="font-family: Economica; font-size:2em;color:#92A8D1">FAST</span> <img src="/FAST.jpg" alt="FAST icon" style="width: auto; height: 2em; vertical-align: top;"><br>
+- <span style="font-family: Economica; font-size:2em;color:#92A8D1">FAST</span> <img src="FAST.jpg" alt="FAST icon" style="width: auto; height: 2em; vertical-align: top;"><br>
   PI Observation time: 26.1 hr (2024-2025), 10 hr (2022-2024)<br>
   Collaboration time: > 50 hr <br>
-- <span style="font-family: Economica; font-size:2em;color:#92A8D1">GBT</span> <img src="/GBT.jpg" alt="GBT icon" style="width: auto; height: 2em; vertical-align: top;"><br>
+- <span style="font-family: Economica; font-size:2em;color:#92A8D1">GBT</span> <img src="GBT.jpg" alt="GBT icon" style="width: auto; height: 2em; vertical-align: top;"><br>
   Sponsored time: > 10 hr <br>
-- <span style="font-family: Economica; font-size:2em;color:#92A8D1">Murriyang</span> <img src="/csiro.jpg" alt="Parkes icon" style="width: auto; height: 2em; vertical-align: top;"><br>
+- <span style="font-family: Economica; font-size:2em;color:#92A8D1">Murriyang</span> <img src="csiro.jpg" alt="Parkes icon" style="width: auto; height: 2em; vertical-align: top;"><br>
   Sponsored time: > 10 hr <br>
 
 
