@@ -13,7 +13,7 @@ title                    : "小菜包"
 title_separator          : "-"
 name                     : &name "Wanjin Lu"
 description              : &description "personal description"
-url                      : https://IsaacVibe.github.io/wjlu # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://IsaacVibe.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "IsaacVibe/wjlu"
 
