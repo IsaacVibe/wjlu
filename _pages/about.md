@@ -12,7 +12,7 @@ I am also interested in the use of machine learning and data science to improve 
 
 <div style="font-family: Economica; font-size:4em;color:#92A8D1; text-align:center;">Dreaming to become a multi-wavelength multi-objective stratgetic astronomer:stars:</div>
 
-Education Experience
+Education
 ------
 - **PhD in Astronomy**, National Astronomical Observatories of Chinese Academy of Sciences, Beijing, China, 2023 - Present
 - **BSc in Astronomy**, Department of Astronomy and Space Science, Nanjing, China, 2019 - 2023
@@ -24,7 +24,7 @@ Research Experience
 ------
 - <span style="font-family: Economica; font-size:2em;color:#EC1B26">Probing the Local Environments of Fast Radio Bursts</span>
   <div style="text-align: center;"><em>"A continuous work after the depolarization study"</em> </div><br>
-  - Collaborators: **Dongzi Li**, **Fa-yin Wang**, **Robert Main**
+  - Collaborators: **Dongzi Li**, **Fa-yin Wang**, Robert Main<br>
   **Abstract**: Conjugate investigation on several repeating FRBs about their depolarization, temporal evolution, and Rotation Measure evolution.<br>
   **Conclusion**: _Parsec-scale_ distance between the foreground plasma screen and the FRB source has been revealed, implying that some of the FRBs are consistent with the supernovae explosion scenario while others favor compact interactions in the binary systems.<br>
 - <span style="font-family: Economica; font-size:2em;color:#EDAB1F">Temporal Evolution of Depolarization and Magnetic Field of Fast Radio Burst 20201124A</span><br>

@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "ch-CN"
 site_theme               : "default"
-title                    : "Wanjin Lu / 小菜包"
+title                    : "小菜包"
 title_separator          : "-"
 name                     : &name "Wanjin Lu"
 description              : &description "personal description"
