@@ -25,8 +25,8 @@ Research Experience
 - <span style="font-family: Economica; font-size:2em;color:#EC1B26">Probing the Local Environments of Fast Radio Bursts</span>
   <div style="text-align: center;"><em>"A continuous work after the depolarization study"</em> </div><br>
   - Collaborators: **Dongzi Li**, **Fa-yin Wang**, Robert Main<br>
-  **Abstract**: Conjugate investigation on several repeating FRBs about their depolarization, temporal evolution, and Rotation Measure evolution.<br>
-  **Conclusion**: _Parsec-scale_ distance between the foreground plasma screen and the FRB source has been revealed, implying that some of the FRBs are consistent with the supernovae explosion scenario while others favor compact interactions in the binary systems.<br>
+**Abstract**: Conjugate investigation on several repeating FRBs about their depolarization, temporal evolution, and Rotation Measure evolution.<br>
+**Conclusion**: _Parsec-scale_ distance between the foreground plasma screen and the FRB source has been revealed, implying that some of the FRBs are consistent with the supernovae explosion scenario while others favor compact interactions in the binary systems.<br>
 - <span style="font-family: Economica; font-size:2em;color:#EDAB1F">Temporal Evolution of Depolarization and Magnetic Field of Fast Radio Burst 20201124A</span><br>
   <div style="text-align: center;"><em>"Bachelor Thesis"</em> </div><br>
   - Supervisor: **Prof. Fa-yin Wang**
@@ -53,8 +53,10 @@ What I am interested in
 
 About Me
 ------
-- I am usually an _ENFP_ and always enthusiastic about making friends and getting connections with people.<br>
-- I am also a fan of food and music. Not being able to cook makes me a foodie who explores domestic and exotic cuisines. :drooling_face:
+- I am usually an _ENFP_(now is switched to _ISFP_ sometimes) and always enthusiastic about making friends and getting connections with people.<br>
+- I am also a fan of food and music. Not being able to cook makes me a foodie who explores domestic and exotic cuisines. :drooling_face: <br>
+- I am also deeply engaged in stand-up comedy shows, being participated in podcast and live performance for dozens of times. <br>
+- Now I am a huge fan of Formula 1 (F1), especially for the high-tech equipments!
 
 {% include deepseek-chat.html %}
 
