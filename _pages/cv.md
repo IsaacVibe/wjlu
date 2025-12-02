@@ -32,8 +32,10 @@ Talks
   
 Teaching
 ======
-* I hope I would in the near future!
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Service and leadership
 ======
-* I hope I would in the future.
+* Currently signed in to 43 different slack teams
