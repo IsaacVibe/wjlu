@@ -8,4 +8,5 @@ date: 2024-10-06
 location: "Liupanshui, Guizhou, China"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+This is the annual ISM group forum encouraging high-grade PhDs and postdocs to share their SOTA works. It should be noted that ISM Forum is usually hosted by ISM student who has newly found his/her position. <br>
+I presented the narrow-banded pulsar this year. 
